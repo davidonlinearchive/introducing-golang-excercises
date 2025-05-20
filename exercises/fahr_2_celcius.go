@@ -1,10 +1,9 @@
-//GOAL: write a program that converts from Fahrenheit into Celsius (C = (F − 32) * 5/9).
-
-package main
+// GOAL: write a program that converts from Fahrenheit into Celsius (C = (F − 32) * 5/9).
+package exercises
 
 import "fmt"
 
-func main() {
+func ConvertToFahr() {
 	var fahr float32
 	var celcius float32
 
